@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Improved AI Resume Analyzer</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <main class="container">
+    <section class="hero">
+      <div>
+        
+        <h1>AI Resume Analyzer</h1>
+        <p class="subtitle">Upload one or more resumes, paste a job description, and get match score, missing skills, experience fit and candidate ranking.</p>
+      </div>
+      <!-- <div class="engine" id="engineBox">C</div> -->
+    </section>
+
+    <section class="card form-card">
+      <form id="analyzeForm">
+        <label>Upload Resume Files <span>PDF, TXT or DOCX; multiple allowed</span></label>
+        <input type="file" name="resumes" id="resumes" multiple accept=".pdf,.txt,.docx" required />
+
+        <label>Paste Job Description</label>
+        <textarea name="jd_text" id="jdText" rows="10" placeholder="Paste JD here..." required></textarea>
+
+        <div class="actions">
+          <button type="submit">Analyze Resumes</button>
+          <a href="/api/export.csv" class="secondary">Download CSV</a>
+        </div>
+      </form>
+    </section>
+
+    <section id="summary" class="summary hidden"></section>
+    <section id="results" class="results"></section>
+  </main>
+  <script src="/static/script.js"></script>
+</body>
+</html>

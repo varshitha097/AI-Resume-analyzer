@@ -1,0 +1,285 @@
+{
+  "Programming Languages": {
+    "Python": [
+      "py",
+      "python3"
+    ],
+    "Java": [
+      "core java"
+    ],
+    "JavaScript": [
+      "javascript",
+      "js",
+      "ecmascript"
+    ],
+    "TypeScript": [
+      "typescript",
+      "ts"
+    ],
+    "C": [
+      "c language"
+    ],
+    "C++": [
+      "cpp",
+      "c plus plus"
+    ],
+    "C#": [
+      "c sharp",
+      "csharp"
+    ],
+    "PHP": [
+      "php"
+    ],
+    "Go": [
+      "golang"
+    ],
+    "Ruby": [
+      "ruby"
+    ],
+    "Kotlin": [
+      "kotlin"
+    ],
+    "Swift": [
+      "swift"
+    ]
+  },
+  "Frontend": {
+    "HTML": [
+      "html5"
+    ],
+    "CSS": [
+      "css3"
+    ],
+    "React": [
+      "reactjs",
+      "react.js"
+    ],
+    "Angular": [
+      "angularjs"
+    ],
+    "Vue": [
+      "vuejs",
+      "vue.js"
+    ],
+    "Bootstrap": [
+      "bootstrap"
+    ],
+    "Tailwind CSS": [
+      "tailwind",
+      "tailwindcss"
+    ],
+    "Redux": [
+      "redux toolkit"
+    ],
+    "Next.js": [
+      "nextjs",
+      "next js"
+    ]
+  },
+  "Backend": {
+    "Flask": [
+      "flask framework"
+    ],
+    "Django": [
+      "django framework"
+    ],
+    "FastAPI": [
+      "fast api"
+    ],
+    "Node.js": [
+      "nodejs",
+      "node js"
+    ],
+    "Express.js": [
+      "expressjs",
+      "express js"
+    ],
+    "Spring Boot": [
+      "springboot"
+    ],
+    "REST API": [
+      "restful api",
+      "rest apis",
+      "api development",
+      "backend endpoints"
+    ],
+    "GraphQL": [
+      "graphql"
+    ],
+    ".NET": [
+      "dotnet",
+      "asp.net"
+    ]
+  },
+  "Databases": {
+    "SQL": [
+      "structured query language"
+    ],
+    "MySQL": [
+      "mysql"
+    ],
+    "PostgreSQL": [
+      "postgres",
+      "postgresql"
+    ],
+    "SQLite": [
+      "sqlite3"
+    ],
+    "MongoDB": [
+      "mongo"
+    ],
+    "Oracle": [
+      "oracle db"
+    ],
+    "Redis": [
+      "redis"
+    ],
+    "Firebase": [
+      "firestore",
+      "firebase database"
+    ]
+  },
+  "Machine Learning & Data": {
+    "Machine Learning": [
+      "ml",
+      "machine-learning"
+    ],
+    "Deep Learning": [
+      "dl"
+    ],
+    "NLP": [
+      "natural language processing"
+    ],
+    "Computer Vision": [
+      "cv"
+    ],
+    "Data Analysis": [
+      "data analytics",
+      "analytics"
+    ],
+    "Data Science": [
+      "data scientist"
+    ],
+    "Pandas": [
+      "pandas"
+    ],
+    "NumPy": [
+      "numpy"
+    ],
+    "Scikit-learn": [
+      "sklearn",
+      "scikit learn"
+    ],
+    "TensorFlow": [
+      "tensorflow"
+    ],
+    "PyTorch": [
+      "torch",
+      "pytorch"
+    ],
+    "Keras": [
+      "keras"
+    ],
+    "OpenCV": [
+      "cv2",
+      "opencv"
+    ],
+    "Power BI": [
+      "powerbi",
+      "power bi"
+    ],
+    "Tableau": [
+      "tableau"
+    ],
+    "Excel": [
+      "ms excel",
+      "microsoft excel"
+    ],
+    "Statistics": [
+      "statistical analysis",
+      "stats"
+    ]
+  },
+  "Cloud & DevOps": {
+    "AWS": [
+      "amazon web services"
+    ],
+    "Azure": [
+      "microsoft azure"
+    ],
+    "GCP": [
+      "google cloud",
+      "google cloud platform"
+    ],
+    "Docker": [
+      "containerization"
+    ],
+    "Kubernetes": [
+      "k8s"
+    ],
+    "Git": [
+      "github",
+      "gitlab",
+      "version control"
+    ],
+    "CI/CD": [
+      "cicd",
+      "continuous integration",
+      "continuous deployment"
+    ],
+    "Linux": [
+      "unix",
+      "shell scripting"
+    ],
+    "Jenkins": [
+      "jenkins"
+    ],
+    "Terraform": [
+      "terraform"
+    ]
+  },
+  "Testing & QA": {
+    "Manual Testing": [
+      "functional testing"
+    ],
+    "Automation Testing": [
+      "test automation"
+    ],
+    "Selenium": [
+      "selenium webdriver"
+    ],
+    "PyTest": [
+      "pytest"
+    ],
+    "JUnit": [
+      "junit"
+    ],
+    "Postman": [
+      "api testing"
+    ],
+    "Jira": [
+      "jira"
+    ],
+    "Agile": [
+      "scrum",
+      "agile methodology"
+    ]
+  },
+  "Soft Skills": {
+    "Communication": [
+      "communication skills"
+    ],
+    "Teamwork": [
+      "team collaboration"
+    ],
+    "Problem Solving": [
+      "problem-solving"
+    ],
+    "Leadership": [
+      "team lead"
+    ],
+    "Time Management": [
+      "time-management"
+    ]
+  }
+}

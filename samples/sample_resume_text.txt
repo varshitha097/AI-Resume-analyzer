@@ -1,0 +1,22 @@
+Harshitha Reddy
+Python Developer
+
+Summary
+Python developer with internship experience in web applications and machine learning projects.
+
+Technical Skills
+Python, Flask, SQL, MySQL, Git, HTML, CSS, JavaScript, Machine Learning, Pandas, NumPy
+
+Experience
+Python Intern | Jan 2025 - May 2026
+Built REST APIs, connected SQL database and created backend modules.
+
+Projects
+AI Resume Analyzer using Python, Flask, PDF parsing, NLP extraction and similarity scoring.
+Text Analyzer using Machine Learning with Tkinter, NLTK, VADER and T5 summarization.
+
+Education
+B.Tech Electronics and Communication Engineering
+
+Certifications
+Python Basics Certificate

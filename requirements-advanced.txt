@@ -1,0 +1,6 @@
+-r requirements.txt
+# Recommended for better semantic accuracy. First run may download the embedding model.
+sentence-transformers>=2.7.0
+# Optional OCR fallback for scanned PDFs. Also install Tesseract and Poppler system tools.
+pytesseract>=0.3.10
+pdf2image>=1.17.0

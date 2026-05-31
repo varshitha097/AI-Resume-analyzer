@@ -1,0 +1,3 @@
+Python Developer Job Description
+
+We are looking for a Python Developer with 1+ years of experience. Required skills include Python, Flask or Django, REST API development, SQL, PostgreSQL, Git, Docker and basic cloud knowledge. The candidate should build backend endpoints, integrate databases, write clean code and work with frontend developers. Knowledge of machine learning is a plus.

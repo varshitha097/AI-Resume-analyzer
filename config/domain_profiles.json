@@ -1,0 +1,131 @@
+{
+  "Python Developer": {
+    "core_skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "FastAPI",
+      "SQL",
+      "REST API",
+      "Git"
+    ],
+    "keywords": [
+      "python developer",
+      "backend",
+      "api",
+      "server side"
+    ]
+  },
+  "Full Stack Developer": {
+    "core_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "SQL",
+      "REST API"
+    ],
+    "keywords": [
+      "full stack",
+      "frontend",
+      "backend",
+      "web application"
+    ]
+  },
+  "Frontend Developer": {
+    "core_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Angular",
+      "Vue",
+      "Bootstrap",
+      "Tailwind CSS"
+    ],
+    "keywords": [
+      "frontend",
+      "ui",
+      "web design",
+      "responsive"
+    ]
+  },
+  "Data Analyst": {
+    "core_skills": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Tableau",
+      "Python",
+      "Pandas",
+      "Data Analysis",
+      "Statistics"
+    ],
+    "keywords": [
+      "data analyst",
+      "dashboard",
+      "reporting",
+      "analytics"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "core_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Pandas",
+      "NumPy"
+    ],
+    "keywords": [
+      "machine learning engineer",
+      "model",
+      "training",
+      "prediction",
+      "classification"
+    ]
+  },
+  "DevOps Engineer": {
+    "core_skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "GCP",
+      "CI/CD",
+      "Linux",
+      "Jenkins",
+      "Terraform"
+    ],
+    "keywords": [
+      "devops",
+      "deployment",
+      "infrastructure",
+      "pipeline"
+    ]
+  },
+  "QA Engineer": {
+    "core_skills": [
+      "Manual Testing",
+      "Automation Testing",
+      "Selenium",
+      "PyTest",
+      "JUnit",
+      "Postman",
+      "Jira",
+      "Agile"
+    ],
+    "keywords": [
+      "qa",
+      "quality assurance",
+      "testing",
+      "test cases"
+    ]
+  }
+}

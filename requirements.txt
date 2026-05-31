@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+PyMuPDF
+pdfplumber
+python-docx
+scikit-learn
+numpy
