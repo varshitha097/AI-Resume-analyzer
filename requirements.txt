@@ -5,3 +5,4 @@ pdfplumber
 python-docx
 scikit-learn
 numpy
+gunicorn>=21.2.0
